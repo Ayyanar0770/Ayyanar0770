@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...INFORMATION TECHNOLOGY
 - 💞️ I’m looking to collaborate on ...SYMPOSIUM
-- 📫 How to reach me ...WITH CHARACTER
+- 📫 How to reach me ...WITH good CHARACTER
 - 😄 Pronouns: ...all is well
-- ⚡ Fun fact: ...I'M Always sleep
+- ⚡ Fun fact: ...I'M Always 😴
 
 <!---
 Ayyanar0770/Ayyanar0770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
